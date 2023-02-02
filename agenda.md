@@ -9,3 +9,8 @@
 
 4. Run and view logs
 
+Building and testing python:
+https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+Workflows Syntax:
+https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions
